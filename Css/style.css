@@ -5,6 +5,23 @@
 
 .nav-link{
     display: inline;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.nav-item .nav-link:hover{
+    background-color: rgb(209, 166, 166);
+    border-radius: 15px;
+}
+
+.navbar-nav{
+    align-items: center;
 }
 .about-me{
     font-size: 20px;
