@@ -1,11 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Roboto+Slab&display=swap');
+
+body{
+    background-color: rgb(223, 254, 254);
+}
+
 .img-user{
     border-radius: 50%;
     height: 250px;
 }
 
-.nav-link{
-    display: inline;
-    font-weight: bold;
+.Prasad{
+    border-radius: 50%;
+}
+ul{
+    align-items: center;
+
+}
+.nav-item{
     text-decoration: none;
     color: #000;
     font-weight: bold;
@@ -14,14 +25,17 @@
     text-transform: uppercase;
     cursor: pointer;
 }
-
-.nav-item .nav-link:hover{
+.nav-item:hover{
     background-color: rgb(209, 166, 166);
     border-radius: 15px;
 }
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
 
-.navbar-nav{
-    align-items: center;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
 }
 .about-me{
     font-size: 20px;
