@@ -16,6 +16,7 @@ ul{
     align-items: center;
 
 }
+
 .nav-item{
     text-decoration: none;
     color: #000;
@@ -40,6 +41,7 @@ h2{
 .about-me{
     font-size: 20px;
 }
+
 .ico-social-container{
     background-color: white;
     padding: 5px;
@@ -50,16 +52,8 @@ h2{
     width: 60px;
     margin-left: 20px;
 }
+
 .ico-social{
     height: 50px;
     width: 50px;
-}
-.project-container{
-    box-shadow: 5px 5px 8px black;
-    padding: 10px;
-    border-radius: 30px;
-    text-align: center;
-    margin-top: 30px;
-    margin-left: 10x;
-    width: 100%; 
 }
