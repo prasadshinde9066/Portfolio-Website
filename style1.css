@@ -2,9 +2,28 @@
 body{
     background-color: rgb(223, 254, 254);
 }
+
+
+.Prasad{
+    border-radius: 50%;
+}
+.nav-item{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.nav-item:hover{
+    background-color: rgb(209, 166, 166);
+    border-radius: 15px;
+}
 h2{
     font-family: 'Roboto Slab', serif;
 }
+
 .ico-social-container{
     background-color: white;
     padding: 5px;
